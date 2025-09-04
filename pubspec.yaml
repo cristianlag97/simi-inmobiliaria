@@ -28,11 +28,19 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  another_flutter_splash_screen: ^1.2.1
   cupertino_icons: ^1.0.8
   dio: ^5.9.0
   flutter:
     sdk: flutter
+  flutter_dotenv: ^6.0.0
+  flutter_riverpod: ^2.6.1
   formz: ^0.8.0
+  go_router: ^16.2.1
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.5.3
+  toastify_flutter: ^2.1.1
+  video_player: ^2.10.0
 
 dev_dependencies:
   flutter_lints: ^5.0.0
